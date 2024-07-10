@@ -1,3 +1,2 @@
-# Sample Node.js application
+#Dockerized todolist-app
 
-This repository is a sample Node.js application for Docker's documentation.
